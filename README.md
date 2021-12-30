@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanielTeko-Agbo
 - 🌱 I’m currently learning python
-- 📫 How to reach me [@DTeikoAgbo] on twitter
+- 📫 You can reach me [@DTeikoAgbo on Twitter]
 
 <!---
 DanielTeko-Agbo/DanielTeko-Agbo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
