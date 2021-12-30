@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DanielTeko-Agbo
+- 👋 Hi, I’m @Daniel-Teiko-Agbo
 - 🌱 I’m currently learning python
 - 📫 You can reach me [@DTeikoAgbo on Twitter]
 
